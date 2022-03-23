@@ -11,6 +11,7 @@ Falar sobre a dinamica social: medico familiar, hospitais e farmacias, aposentad
 ### 03.1 - Segurança Social ( 4 minutos )
 
 O que é SegSocial ? Para que serve ? Descontos ?
+O pulo do gato. Convenio internacional, minha aposentadoria dourada.
 
 ### 03.2 - Medico de Familia, acesso aos hospitais publicos e farmacias ( 4 minutos )
 
