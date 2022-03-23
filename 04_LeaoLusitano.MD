@@ -26,8 +26,10 @@ Remessas de moeda Brasil X Portugal X Brasil
 
 Casos de reembolso de IVA, Tax Free e outras benesses
 
-### 04.5 - Modalidades de contratos ( 4 minutos )
+### 04.5 - Ganhar Dinheiro :  Modalidades de contratos e Investimentos ( 4 minutos )
 
 Saiba os tipos de contratos e conheça a tabela de IRS 
+
+Investir em Portugal
 
 - [Masterclass Portugal](README.md)
