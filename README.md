@@ -4,7 +4,7 @@
 
 Este repositorio destina-se a armazenar os topicos, material de apoio e detalhes sobre a Masterclass Portugal
 
-# Programa Nivel 0
+# Programa Nivel 0 ( 120 minutos )
 
 ## 01 - Apresentação ( 10 minutos )
 
@@ -22,7 +22,7 @@ Falar sobre a dinamica social: medico familiar, hospitais e farmacias, aposentad
 
 A dor de pagar imposto, renda media portuguesa, custo de vida e economia, como investir o dinheiro
 
-## 05 - O Salario Português, projetos comunitarios Inglaterra, Espanha e Italia ( 30 minutos)
+## 05 - O Salario Português, projetos comunitarios Inglaterra, Espanha e Italia ( 35 minutos)
 
 Vamos a parte que interessa, quanto posso ganhar de salario, onde devo divulgar meu curriculum, as entrevistas e os clientes.
 
