@@ -76,7 +76,9 @@ Onde eu errei e acertos inesperados, cenarios bom, maus, excepcionais e pessimos
 Sou um estrangeiro em casa, virei um cidadão do mundo.
 
 
-- [Masterclass Portugal](README.md)
+---
+
+![Menu Masterclass](Images/Menu.png "Menu Masterclass") [Menu Masterclass](00_Masterclass.MD)
 
 
 ---
