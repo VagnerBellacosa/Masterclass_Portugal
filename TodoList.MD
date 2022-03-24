@@ -8,7 +8,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
-![Masterclass Bellacosa Adventure I](Images/Masterclass.png "Portugal Masterclass")
+![ToDo List](Images/ToDoList.png "ToDo List")
 
 # Masterclass_Portugal
 
@@ -16,35 +16,35 @@
 
 Este repositorio destina-se a armazenar os topicos, material de apoio e detalhes sobre a Masterclass Portugal
 
+### 📝📝📝 TODO List  📝📝📝 
 
-### TODO List
+#### 🔲 Explodir Level 3
 
-#### Explodir Level 3
+#### 🔲 Apresentar o simulador MS Excel recibos verdes
 
-#### Apresentar o simulador MS Excel recibos verdes
+#### 🔲 Listar sites de emprego em Portugal
 
-#### Listar sites de emprego em Portugal
+#### 🔲 Listar procedimentos carta de motorista
 
-#### Listar procedimentos carta de motoristo
+#### 🔲 Listar procedimentos sobre apostilhamento de documentos
 
-#### Listar procedimentos sobre apostilhamento de documentos
+#### 🔲 Listar procedimentos IRS
 
-#### Listar procedimentos IRS
+#### 🔲 Listar procedimentos Seg Social
 
-#### Listar procedimentos Seg Social
+#### 🔲 Listar Bairros Lisboa e rendas
 
-#### Listar Bairros Lisboa e rendas
+#### 🔲 Listar Pontos Turisticos
 
-#### Listar Pontos Turisticos
+#### 🔲 Listar Seguro Saude e repratiamento restos mortais
 
-#### Listar Seguro Saude e repratiamento restos mortais
+#### 🔲 Listar educação
 
-#### Listar educação
+#### 🔲 Listar empregos
 
-#### Listar empregos
+#### 🔲 Listar Telefones uteis
 
-#### Listar Telefones uteis
-
+#### 🔲 Listar Lojas do Cidadão em Lisboa
 
 
 ---
@@ -73,5 +73,5 @@ Este repositorio destina-se a armazenar os topicos, material de apoio e detalhes
 [license-url]: https://github.com/VagnerBellacosa/Masterclass_Portugal/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/VagnerBellacosa/
-[product-screenshot]: Images/Masterclass.png
+[product-screenshot]: Images/ToDoList.png
 
