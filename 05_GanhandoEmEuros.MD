@@ -8,11 +8,11 @@ Este repositorio destina-se a armazenar os topicos, material de apoio e detalhes
 
 Vamos a parte que interessa, quanto posso ganhar de salario, onde devo divulgar meu curriculum, as entrevistas e os clientes.
 
-### 05.1 - Entenda o problema do Risco Cambial ( 5 minutos )
+### 05.1 - Entenda o problema do Risco Cambial ( 4 minutos )
 
 A vida ganhando em Euros, aposta contra o Real R$.
 
-### 05.2 - Remessa Internacional ( 4 minutos )
+### 05.2 - Remessa Internacional ( 3 minutos )
 
 Como receber e enviar dinheiro para o Brasil
 
@@ -50,8 +50,13 @@ A crise de 2008, seu impacto, desilução e mover-se no atoleiro, ida a Milão
 
 Perigos do envio de alimentos via correio, trafego de drogas internacionals e criminalidade
 
-### 05.11 - Lá e cá outra  ( 2 minutos )
+### 05.11 - Erros e acertos  ( 2 minutos )
+
+Onde eu errei e acertos inesperados, cenarios bom, maus, excepcionais e pessimos... planejando
+
+### 05.12 - Lá e cá outra  ( 2 minutos )
 
 Sou um estrangeiro em casa, virei um cidadão do mundo.
+
 
 - [Masterclass Portugal](README.md)
