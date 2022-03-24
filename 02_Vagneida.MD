@@ -21,19 +21,19 @@ Este repositorio destina-se a armazenar os topicos, material de apoio e detalhes
 
 ## 02 - Projeto Portugal ( 15 minutos )
 
-Um resumo sobre estudo, vida, trabalho, transporte, viagens, riscos e custos.
+Um resumo sobre estudo, vida, trabalho, transporte, viagens, riscos e custos visiveis e invisiveis.
 
 ### 02.1 - Planejamento ( 5 minutos )
 
-Orçamento, planos, pesquisas, aspirações e contatos.
+O Orçamento, os planos, as pesquisas, as aspirações e os contatos.
 
 ### 02.2 - Realização ( 5 minutos )
 
-Os primeiros dias, onde ficar, o que fazer, dificuldades e soluções.
+Os primeiros dias em Portugal, onde ficar, o que fazer, as dificuldades e as soluções.
 
 ### 02.3 - A Realidade ( 5 minutos )
 
-Acompanhamento financeiros, problemas cambiais, problemas de envios e recebimentos, senhas e cartoes
+O acompanhamento financeiros planejado versus realizado, os problemas cambiais, os problemas de envios e recebimentos de numerarios, cartões de credito e seus bloqueios, as senhas dos cartoes, medos e sustos.
 
 
 ---
