@@ -75,5 +75,5 @@ Microfone aberto, duvidas e questões
 [license-url]: https://github.com/VagnerBellacosa/Masterclass_Portugal/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/VagnerBellacosa/
-[product-screenshot]: Images/Masterclass.png.png
+[product-screenshot]: Images/Masterclass.png
 
