@@ -20,7 +20,7 @@ Este repositorio destina-se a armazenar os topicos, material de apoio e detalhes
 
 Salve #Dioners, padawans curiosos, #Dionitos em Ação e curiosos em Geral.
 
-Seja muito bem-vindo para meu repositorio do Projeto DIO GLOBAL Masterclass, esta é minha primeira inversão de papel, passando de consumidor viciadão para criador de conteúdo.
+Seja muito bem-vindo para meu repositorio do Projeto DIO GLOBAL Masterclass, esta é a minha primeira inversão de papel, passando de um consumidor viciadão para o criador de conteúdos educacionais.
 
 Este esboço é o que pretendo compartilhar com os parças, retribuindo o tanto de conhecimento que obtive na Digital Innovation One. Muito Obrigado #Dioners!!!
 
