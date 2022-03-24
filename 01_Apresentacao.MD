@@ -39,7 +39,9 @@ Falarei sobre os cursos e formações que me trouxeram onde estou
 Um pouco da pessoa fora dos computadores, hobbies, ativismo, politica, sonhos e decepções
 
 
-- [Masterclass Portugal](README.md)
+---
+
+![Menu Masterclass](Images/Menu.png "Menu Masterclass") [Menu Masterclass](00_Masterclass.md)
 
 
 ---
