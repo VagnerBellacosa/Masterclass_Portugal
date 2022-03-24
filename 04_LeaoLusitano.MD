@@ -20,11 +20,11 @@ Este repositorio destina-se a armazenar os topicos, material de apoio e detalhes
 
 A dor de pagar o Imposto, saiba sobre a renda media portuguesa, mais sobre o custo de vida e economia local, sobrou dinheiro como investi-lo?
 
-### 04.1 - IRS ( 4 minutos )
+### 04.1 - IRS ( 3 minutos )
 
 O que é IRS ? Para que serve ? Ai esses descontos no meu salario ?
 
-### 04.2 - Declaração anual, recibos e documentos ( 4 minutos )
+### 04.2 - Declaração anual, recibos e documentos ( 3 minutos )
 
 Somos alvos faceis da auditoria do Fisco : Estrangeiros e Informaticos, brasileiro tem má fama, suspeitam sempre que somos trambiqueiros, logo o Leão esta de olho e depois por ser informaticos ganhamos acima da media. Saiba mais sobre a Bi-Tributação internacional e como evita-la.
 
@@ -45,6 +45,10 @@ Os casos de reembolso de IVA, Tax Free e outras benesses
 Saiba os tipos de contratos e conheça a tabela de IRS.
 
 Investir em Portugal produtos financeiros para os poupadores.
+
+### 04.6 - Lascou, um problema no Brasil precisa da minha atenção ( 2 minutos )
+
+Cartorio e procurações, passaportes uma visita ao Consulado Brasileiro
 
 ---
 
