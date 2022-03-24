@@ -44,7 +44,9 @@ Saiba os tipos de contratos e conheça a tabela de IRS
 
 Investir em Portugal
 
-- [Masterclass Portugal](README.md)
+---
+
+![Menu Masterclass](Images/Menu.png "Menu Masterclass") [Menu Masterclass](00_Masterclass.MD)
 
 
 ---
