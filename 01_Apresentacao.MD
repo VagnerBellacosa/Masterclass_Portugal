@@ -41,7 +41,7 @@ Um pouco da pessoa fora dos computadores, hobbies, ativismo, politica, sonhos e 
 
 ---
 
-![Menu Masterclass](Images/Menu.png "Menu Masterclass") [Menu Masterclass](00_Masterclass.md)
+![Menu Masterclass](Images/Menu.png "Menu Masterclass") [Menu Masterclass](00_Masterclass.MD)
 
 
 ---
