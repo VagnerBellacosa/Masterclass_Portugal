@@ -18,31 +18,33 @@ Este repositorio destina-se a armazenar os topicos, material de apoio e detalhes
 
 ## 04 - Problemas burocraticos II : O Imposto de Renda IRS ( 20 minutos )
 
-A dor de pagar imposto, renda media portuguesa, custo de vida e economia, como investir o dinheiro
+A dor de pagar o Imposto, saiba sobre a renda media portuguesa, mais sobre o custo de vida e economia local, sobrou dinheiro como investi-lo?
 
 ### 04.1 - IRS ( 4 minutos )
 
-O que é IRS ? Para que serve ? Descontos ?
+O que é IRS ? Para que serve ? Ai esses descontos no meu salario ?
 
 ### 04.2 - Declaração anual, recibos e documentos ( 4 minutos )
 
-Somos alvos faceis da auditoria do Fisco : Estrangeiros e Informaticos, brasileiro tem má fama, suspeitam sempre que somos trambiqueiros, logo o Leão esta de olho e depois por ser informaticos ganhamos acima da media.
+Somos alvos faceis da auditoria do Fisco : Estrangeiros e Informaticos, brasileiro tem má fama, suspeitam sempre que somos trambiqueiros, logo o Leão esta de olho e depois por ser informaticos ganhamos acima da media. Saiba mais sobre a Bi-Tributação internacional e como evita-la.
+
+Olho no CPF Brasileiro e o Titulo de eleitor ( declaração de saida).
 
 ### 04.3 - Riqueza de Portugal ( 4 minutos )
 
-Portugal é pobre, perante o padrão europeu, porém é rico perante o Brasil. 
+Portugal é um país pobre??? Sim, mas apenas perante o padrão europeu, porém comparativamente conosco é muito mais rico que o Brasil. 
 
-Remessas de moeda Brasil X Portugal X Brasil
+Rolos entre Remessas de moeda Brasil X Portugal X Brasil
 
 ### 04.4 - Compras e o IVA ( 4 minutos )
 
-Casos de reembolso de IVA, Tax Free e outras benesses
+Os casos de reembolso de IVA, Tax Free e outras benesses
 
 ### 04.5 - Ganhar Dinheiro :  Modalidades de contratos e Investimentos ( 4 minutos )
 
-Saiba os tipos de contratos e conheça a tabela de IRS 
+Saiba os tipos de contratos e conheça a tabela de IRS.
 
-Investir em Portugal
+Investir em Portugal produtos financeiros para os poupadores.
 
 ---
 
