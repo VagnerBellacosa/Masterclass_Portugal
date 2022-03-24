@@ -36,7 +36,9 @@ Os primeiros dias, onde ficar, o que fazer, dificuldades e soluções.
 Acompanhamento financeiros, problemas cambiais, problemas de envios e recebimentos, senhas e cartoes
 
 
-- [Masterclass Portugal](README.md)
+---
+
+![Menu Masterclass](Images/Menu.png "Menu Masterclass") [Menu Masterclass](00_Masterclass.MD)
 
 
 
