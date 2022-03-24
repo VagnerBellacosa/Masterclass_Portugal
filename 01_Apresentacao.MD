@@ -66,3 +66,4 @@ Um pouco da pessoa fora dos computadores, hobbies, ativismo, politica, sonhos e 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/VagnerBellacosa/
 [product-screenshot]: Images/Welcome.png
+ 
