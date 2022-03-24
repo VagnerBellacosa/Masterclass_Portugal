@@ -55,7 +55,7 @@ Microfone aberto, duvidas e questões
 
 ---
 
-![Masterclass](Images/Menu.png "Masterclass") [Masterclass](README.md)
+![Boas vindas!!!](Images/Menu.png "Boas vindas") [Boas vindas e primeiro aporte](README.md)
 
 
 ---
