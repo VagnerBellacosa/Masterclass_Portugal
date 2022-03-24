@@ -16,13 +16,13 @@ A vida ganhando em Euros, aposta contra o Real R$.
 
 Como receber e enviar dinheiro para o Brasil
 
-### 05.3 - Inscrição Consular ( 4 minutos )
+### 05.3 - Inscrição Consular ( 3 minutos )
 
 O que é uma inscrição consular? Para que serve? Como solicitar?
 
 Remessas de moeda Brasil X Portugal X Brasil
 
-### 05.4 - Viajar é tão gostoso ( 4 minutos )
+### 05.4 - Viajar é tão gostoso ( 3 minutos )
 
 Trens, onibus e avioes, como é barato viajar na Europa, sendo europeu...
 
@@ -50,11 +50,15 @@ A crise de 2008, seu impacto, desilução e mover-se no atoleiro, ida a Milão
 
 Perigos do envio de alimentos via correio, trafego de drogas internacionals e criminalidade
 
-### 05.11 - Erros e acertos  ( 2 minutos )
+### 05.11 - Uma escolha dificil  ( 2 minutos )
+
+Ir adiante, ficar, a tecnica de Caesar que não usei, ou melhor usei parcialmente
+
+### 05.12 - Erros e acertos  ( 2 minutos )
 
 Onde eu errei e acertos inesperados, cenarios bom, maus, excepcionais e pessimos... planejando
 
-### 05.12 - Lá e cá outra  ( 2 minutos )
+### 05.13 - Lá e cá outra  ( 2 minutos )
 
 Sou um estrangeiro em casa, virei um cidadão do mundo.
 
