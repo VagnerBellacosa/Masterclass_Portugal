@@ -41,7 +41,9 @@ Seguro de vida, seguro funeral será que eu preciso disso?
 
 Dor de dente, me ferrei... curso de primeiro socorros foi uma boa ideia. Quebrei meu oculos o backup me salvou. Bebedeiras e afins, escaldão a vista.
 
-- [Masterclass Portugal](README.md)
+---
+
+![Menu Masterclass](Images/Menu.png "Menu Masterclass") [Menu Masterclass](00_Masterclass.MD)
 
 
 ---
