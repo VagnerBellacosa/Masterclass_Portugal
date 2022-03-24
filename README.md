@@ -8,7 +8,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
-![Masterclass Bellacosa Adventure I](Images/Masterclass.png "Portugal Masterclass")
+![DIO Global Masterclass](Images/MenuPrincipal.png "DIO Global Masterclass")
 
 # Masterclass_Portugal
 
@@ -18,39 +18,18 @@ Este repositorio destina-se a armazenar os topicos, material de apoio e detalhes
 
 # Programa Nivel 0 ( 120 minutos )
 
-## 01 - Apresentação ( 10 minutos )
+Salve #Dioners, padawans curiosos, #Dionitos em Ação e curiosos em Geral.
 
-Irei apresentar meu curriculum vitae versão "en passant" com topicos de interesse e Portugal
+Seja muito bemvindo para meu repositorio do Projeto DIO GLOBAL Masterclass, esta é minha primeira inversão de papel, passando de consumidor viciadão para criador de conteúdo.
 
-- [Welcome Masterclass](01_Apresentacao.MD)
+Este esboço é o que pretendo compartilhar com os parças, retribuindo o tanto de conhecimento que obti na Digital Innovation One. Muito Obrigado.
 
-## 02 - Projeto Portugal ( 15 minutos )
+Este documento esta dividido em Modulos horizontais em nivel 0, 1 e 2. Qualquer duvida/anomalia/dubialidades abra uma ISSUE, rapidamente remendarei e você nem percebera.
 
-Um resumo sobre estudo, vida, trabalho, transporte, viagens, riscos e custos.
+Espero que goste e não esqueça da estrelinha, ajuda bastante o projeto.
 
-- [Vagneida Projeto Portugal](02_Vagneida.MD)
-
-## 03 - Problemas burocraticos : Segurança Social (20 minutos )
-
-Falar sobre a dinamica social: medico familiar, hospitais e farmacias, aposentadorias e descontos.
-
-- [Aposentadoria dourada?](03_Aposentadoria.MD)
-
-## 04 - Problemas burocraticos II : O Imposto de Renda IRS ( 20 minutos )
-
-A dor de pagar imposto, renda media portuguesa, custo de vida e economia, como investir o dinheiro
-
-- [Lascou a p* do I.R. Leão Lusitano?](04_LeaoLusitano.MD)
-
-## 05 - O Salario Português, projetos comunitarios Inglaterra, Espanha e Italia ( 35 minutos)
-
-Vamos a parte que interessa, quanto posso ganhar de salario, onde devo divulgar meu curriculum, as entrevistas e os clientes.
-
-- [Ganhar em Euros](05_GanhandoEmEuros.MD)
-
-## 06 - Perguntas (20 minutos)
-
-Microfone aberto, duvidas e questões
+- [Masterclass](00_Masterclass.MD)
+  - [ToDo List](TodoList.MD)
 
 
 
@@ -75,5 +54,5 @@ Microfone aberto, duvidas e questões
 [license-url]: https://github.com/VagnerBellacosa/Masterclass_Portugal/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/VagnerBellacosa/
-[product-screenshot]: Images/Masterclass.png
+[product-screenshot]: Images/MenuPrincipal.png
 
