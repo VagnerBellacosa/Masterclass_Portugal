@@ -24,9 +24,9 @@ Seja muito bem-vindo para meu repositorio do Projeto DIO GLOBAL Masterclass, est
 
 Este esboço é o que pretendo compartilhar com os parças, retribuindo o tanto de conhecimento que obtive na Digital Innovation One. Muito Obrigado #Dioners!!!
 
-Este documento esta dividido em Modulos horizontais em nivel 0, 1 e 2. Qualquer duvida/anomalia/dubialidades abra uma ISSUE, rapidamente remendarei e você nem perceberá.
+Este documento foi dividido em Modulos horizontais em nivel 0, 1 e 2. Qualquer duvida / anomalia / dubialidades, agradeço que abra uma ISSUE, rapidamente remendarei e você nem perceberá. 😁😁😁
 
-Espero que goste e não esqueça da estrelinha, ajuda bastante o projeto.
+Espero que goste e não esqueça da estrelinha, ajuda bastante na visibilidade do projeto.
 
 - [Masterclass](00_Masterclass.MD)
   - [ToDo List](TodoList.MD)
