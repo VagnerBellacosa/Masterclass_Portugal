@@ -35,50 +35,53 @@ Tudo sobre Remessas de moeda Brasil X Portugal X Além
 
 O que é uma inscrição consular? Para que serve? Como solicitar?
 
-### 05.4 - Viajar é tão gostoso ( 3 minutos )
+### 05.4 - Europass Curriculum vitae Modelo Europeu ( 2 minutos )
+
+Saiba o que é o Europass, site de Bruxelas para os cidadãos europeus
+
+### 05.5 - Viajar é tão gostoso ( 3 minutos )
 
 Trens, onibus e avioes, como é barato viajar na Europa, sendo europeu e usufruindo da fabulosa rede de transportes...
 
-### 05.5 - Empresas e Stacks ( 4 minutos )
+### 05.6 - Empresas e Stacks ( 2 minutos )
 
 Quais as stacks mandatorias, não seja surpreendido de calções curtos com as tech recruiters.
 
-### 05.6 - Curiosidades Linguisticas ( 4 minutos )
+### 05.7 - Curiosidades Linguisticas ( 3 minutos )
 
 Os falsos amigos no Português Portugal e palavras perigosamente engraçadas.
 
-### 05.7 - Proximo capitulo Projeto Inglaterra ( 2 minutos )
+### 05.8 - Proximo capitulo Projeto Inglaterra ( 2 minutos )
 
 Os perengues de um projeto multinacional, a Babel linguistica analistas indianos, ingleses, portugueses, brasileiros e espanhois... o projeto que vendeu apenas 300 apolices.
 
-### 05.8 - Proximo capitulo II Projeto Espanha  ( 2 minutos )
+### 05.9 - Proximo capitulo II Projeto Espanha  ( 2 minutos )
 
 Touradas e castanholas um projeto em Espanha. Masterclass II
 
-### 05.9 - Proximo capitulo III Projeto Italia  ( 2 minutos )
+### 05.10 - Proximo capitulo III Projeto Italia  ( 2 minutos )
 
 A crise de 2008, seu impacto, desilução e mover-se no atoleiro, ida a Milão. Masterclass III
 
-### 05.10 Correios e comidinhas ( 2 minutos )
+### 05.11 Correios e comidinhas ( 2 minutos )
 
 Perigos do envio de alimentos via correio, trafego de drogas internacionals e criminalidade 
 
-### 05.11 - Uma escolha dificil  ( 2 minutos )
+### 05.12 - Uma escolha dificil  ( 2 minutos )
 
 Ir adiante ou ficar, a tecnica de Caesar que não usei (mas deveria ter usado), ou melhor usei parcialmente.
 
-### 05.12 - Erros e acertos  ( 2 minutos )
+### 05.13 - Erros e acertos  ( 2 minutos )
 
 Onde eu errei e acertos inesperados, cenarios bom e maus, excepcionais e pessimos... planejando o implanejavel.
 
-### 05.13 - Lá e cá outra  ( 2 minutos )
+### 05.14 - Lá e cá outra  ( 2 minutos )
 
 A dor do retorno, comparações e irritabilidade das pessoas, um pouco de inveja e patriotismo.
 
 O eterno dilema do traidor da patria.
 
 Sou um estrangeiro em casa, virei um cidadão do mundo.
-
 
 
 ---
