@@ -14,7 +14,7 @@
 
 ## Projeto para masterclass Overview Portugal
 
-Este repositorio destina-se a armazenar os topicos, material de apoio e detalhes sobre a Masterclass Portugal
+Este repositorio destina-se a armazenar os topicos, material de apoio e detalhes sobre a Masterclass Portugal 
 
 # Programa Nivel 0 ( 120 minutos )
 
