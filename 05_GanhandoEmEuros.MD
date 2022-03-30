@@ -21,7 +21,7 @@ Este repositorio destina-se a armazenar os topicos, material de apoio e detalhes
 
 Vou contar aquilo que não te contam. Vamos a parte que interessa, quanto posso ganhar de salario, onde devo divulgar meu curriculum, as entrevistas de emprego e os clientes terceirizados, quarteirizados e quinteirizados (precarização a vista).
 
-### 05.1 - Entenda o problema do Risco Cambial ( 4 minutos )
+### 05.1 - Entenda o problema do Risco Cambial ( 3 minutos )
 
 A vida ganhando em Euros, uma aposta contra o Real R$.
 
@@ -47,7 +47,7 @@ Trens, onibus e avioes, como é barato viajar na Europa, sendo europeu e usufrui
 
 Quais as stacks mandatorias, não seja surpreendido de calções curtos com as tech recruiters.
 
-### 05.7 - Curiosidades Linguisticas ( 3 minutos )
+### 05.7 - Curiosidades Linguisticas ( 2 minutos )
 
 Os falsos amigos no Português Portugal e palavras perigosamente engraçadas.
 
@@ -78,6 +78,11 @@ Onde eu errei e acertos inesperados, cenarios bom e maus, excepcionais e pessimo
 ### 05.14 - Lá e cá outra  ( 2 minutos )
 
 A dor do retorno, comparações e irritabilidade das pessoas, um pouco de inveja e patriotismo.
+
+### 05.15 - Loja do Cidadão  ( 2 minutos )
+
+A loja de cidadão e os documentos geral.
+
 
 O eterno dilema do traidor da patria.
 
