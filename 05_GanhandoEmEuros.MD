@@ -81,6 +81,8 @@ A dor do retorno, comparações e irritabilidade das pessoas, um pouco de inveja
 
 3 ou 13
 
+doutor e senhor
+
 ### 05.15 - Loja do Cidadão  ( 2 minutos )
 
 A loja de cidadão e os documentos geral.
