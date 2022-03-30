@@ -79,6 +79,8 @@ Onde eu errei e acertos inesperados, cenarios bom e maus, excepcionais e pessimo
 
 A dor do retorno, comparações e irritabilidade das pessoas, um pouco de inveja e patriotismo.
 
+3 ou 13
+
 ### 05.15 - Loja do Cidadão  ( 2 minutos )
 
 A loja de cidadão e os documentos geral.
