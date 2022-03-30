@@ -79,6 +79,7 @@ Onde eu errei e acertos inesperados, cenarios bom e maus, excepcionais e pessimo
 
 A dor do retorno, comparações e irritabilidade das pessoas, um pouco de inveja e patriotismo.
 
+margem sul 
 3 ou 13
 
 doutor e senhor
